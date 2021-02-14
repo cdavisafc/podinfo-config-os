@@ -3,4 +3,4 @@ kind: Kustomization
 resources:
 - .keep
 - gotk-components.yaml
-- ../gitops-pipelines/gotk-sync.yaml
+- ../gitops-pipelines/gotk-gitops-pipeline.yaml

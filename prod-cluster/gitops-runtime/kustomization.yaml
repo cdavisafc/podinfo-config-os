@@ -4,3 +4,4 @@ resources:
 - .keep
 - gotk-components.yaml
 - ../gitops-pipelines/gotk-gitops-pipeline.yaml
+- ../gitops-pipelines/webapp-gitops-pipeline.yaml

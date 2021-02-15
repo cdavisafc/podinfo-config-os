@@ -1,7 +1,4 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 resources:
-- .keep
 - gotk-components.yaml
-- ../gitops-pipelines/gotk-gitops-pipeline.yaml
-- ../gitops-pipelines/webapp-gitops-pipeline.yaml
